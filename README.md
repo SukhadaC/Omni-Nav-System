@@ -1,2 +1,2 @@
 # Four-wheel
-Navigation of the 4 wheel omni
+"Welcome to Omni NavSystem - A dynamic robot control system with omni-directional capabilities. This project features complex kinematic equations for precise movement control, a custom-designed control system, and integration of sensors like the MPU 6050 for enhanced decision-making. Explore the code and documentation to unlock the potential of seamless and versatile robotic movement.
